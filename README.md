@@ -2,6 +2,8 @@
 
 Regression Visualization is a gradio interface where the user can learn about logistic and linear regression. It utilizes Python, PyTorch, NumPy, and gradio. You can play with the interface [here](https://huggingface.co/spaces/Cippppy/RegressionVisualization)
 
+![Screenshot 2023-11-11 141816](https://github.com/Cippppy/RegressionVisualization/assets/98924381/4d17ad47-8d07-498f-bcaa-6b338ba20f70)
+
 ## Getting Started
 
 ### Dependencies
