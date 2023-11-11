@@ -242,7 +242,7 @@ with gr.Blocks(title="Regression Visualization") as demo:
                       choices=['log','lin'], value='log')
         l_rate = gr.Number(value=0.01,label="Learning Rate",info="Enter a value in the range 0.0 - 1.0")
         epochs = gr.Number(value=100,label="Number of Epochs (Number of Training Iterations)",info="Enter an integer larger than 0",precision=0)
-    bStart = gr.Button(label="Start")
+    bStart = gr.Button(value="Start")
     with gr.Row() as alt_row:
         altPlot1 = gr.Plot()
         altPlot2 = gr.Plot()

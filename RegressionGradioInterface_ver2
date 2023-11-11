@@ -1,3 +1,5 @@
+# LOGISTIC REGRESSION USING 3+ GROUPS
+
 import gradio as gr
 import altair as alt
 import numpy as np
